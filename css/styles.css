@@ -1,0 +1,28 @@
+body {
+  background-image: url("/images/on_the_high_seas.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+header {
+}
+
+header img {
+  margin-top: 5%;
+  margin-left: 5%;
+  height: 84px;
+}
+
+footer {
+  position: fixed;
+  bottom: 3%;
+  left: 5%;
+}
+
+footer p {
+  font-size: 21px;
+  line-height: 28px;
+  color: white;
+}
